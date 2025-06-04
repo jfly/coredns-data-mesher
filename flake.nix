@@ -23,7 +23,6 @@
       imports = [
         ./nix/formatting.nix
         ./nix/devShell.nix
-        ./nix/package.nix
       ];
     };
 }
